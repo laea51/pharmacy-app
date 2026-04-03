@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-pharmacy",
+      "description": "Modern pharmacy interior",
+      "imageUrl": "https://picsum.photos/seed/farmacia1/1200/600",
+      "imageHint": "modern pharmacy"
+    },
+    {
+      "id": "medication-bottle",
+      "description": "Medicine bottles on a shelf",
+      "imageUrl": "https://picsum.photos/seed/meds/400/300",
+      "imageHint": "medicine bottle"
+    }
+  ]
+}
